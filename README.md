@@ -21,7 +21,7 @@ Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes c
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/user-management-project.git
+   git clone https://github.com/pabli44/user-management-project.git
    cd user-management-project
    ```
 
